@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Solicitar Exclusão de Dados</title>
+</head>
+<body>
+    <h1>Solicitar Exclusão de Dados</h1>
+    <p>Se você deseja solicitar a exclusão dos seus dados pessoais armazenados por nós, siga as instruções abaixo:</p>
+
+    <h2>Como Solicitar</h2>
+    <p>Envie um e-mail para <a href="mailto:seuemail@dominio.com">seuemail@dominio.com</a> com o assunto "Exclusão de Dados" e as seguintes informações:</p>
+    <ul>
+        <li>Seu nome completo.</li>
+        <li>Endereço de e-mail associado à sua conta.</li>
+        <li>Descrição da solicitação.</li>
+    </ul>
+
+    <h2>O Que Acontece Depois?</h2>
+    <p>Analisaremos sua solicitação e excluiremos seus dados pessoais dentro de 30 dias. Entraremos em contato caso precisemos de mais informações.</p>
+
+    <h2>Dúvidas?</h2>
+    <p>Se tiver alguma dúvida, entre em contato conosco em <a href="mailto:seuemail@dominio.com">seuemail@dominio.com</a>.</p>
+</body>
+</html>
